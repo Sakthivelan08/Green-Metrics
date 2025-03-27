@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.Common", "Joy.PIM.Common\ESGRC.Common.csproj", "{BAD198DE-A978-491E-904A-439975F1D38F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.Api", "Joy.PIM.Api\ESGRC.Api.csproj", "{5DE9410D-8ACF-4FF4-9ECE-C96E83E9A69C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.BAL", "Joy.PIM.BAL\ESGRC.BAL.csproj", "{2CDD5D35-925A-43F1-90E5-A76763C36E74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.DAL", "Joy.PIM.DAL\ESGRC.DAL.csproj", "{04D5A50A-C89F-49E3-94EA-A2F9ED16E076}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.Migrator", "Joy.PIM.Migrator\ESGRC.Migrator.csproj", "{EB8F649C-A41C-4C32-8F28-FCC09414A991}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESGRC.CommonWeb", "Joy.PIM.CommonWeb\ESGRC.CommonWeb.csproj", "{0E61061C-D646-48D3-A3CE-B58FAFF99F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD198DE-A978-491E-904A-439975F1D38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD198DE-A978-491E-904A-439975F1D38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD198DE-A978-491E-904A-439975F1D38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD198DE-A978-491E-904A-439975F1D38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE9410D-8ACF-4FF4-9ECE-C96E83E9A69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE9410D-8ACF-4FF4-9ECE-C96E83E9A69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE9410D-8ACF-4FF4-9ECE-C96E83E9A69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE9410D-8ACF-4FF4-9ECE-C96E83E9A69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDD5D35-925A-43F1-90E5-A76763C36E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDD5D35-925A-43F1-90E5-A76763C36E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDD5D35-925A-43F1-90E5-A76763C36E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDD5D35-925A-43F1-90E5-A76763C36E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D5A50A-C89F-49E3-94EA-A2F9ED16E076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D5A50A-C89F-49E3-94EA-A2F9ED16E076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D5A50A-C89F-49E3-94EA-A2F9ED16E076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D5A50A-C89F-49E3-94EA-A2F9ED16E076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8F649C-A41C-4C32-8F28-FCC09414A991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8F649C-A41C-4C32-8F28-FCC09414A991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8F649C-A41C-4C32-8F28-FCC09414A991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8F649C-A41C-4C32-8F28-FCC09414A991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E61061C-D646-48D3-A3CE-B58FAFF99F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E61061C-D646-48D3-A3CE-B58FAFF99F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E61061C-D646-48D3-A3CE-B58FAFF99F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E61061C-D646-48D3-A3CE-B58FAFF99F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88556F2B-E8D8-4DB2-9F0B-DF43A01071C5}
+	EndGlobalSection
+EndGlobal

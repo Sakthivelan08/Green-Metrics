@@ -1,0 +1,18 @@
+﻿1,Boolean,Boolean,1,ToggleLeft
+2,Percentage,Percentage,2,PieSingle
+3,Paragraph,Paragraph,3,AlignLeft
+4,Number,Number,4,NumberField
+5,TextArea,TextArea,5,TextField
+6,Text,Text,6,TextField
+7,Quill,Quill,7,Code
+8,Price,Price,8,Money
+9,File,File,9,FileCode
+10,Image,Image,10,Photo2
+11,Checkbox,Checkbox,11,BoxCheckmarkSolid
+12,LookUp,LookUp,12,Dataflows
+13,Measurements,Measurements,13,BarChart4
+14,MultiSelect,MultiSelect,14,CheckboxCompositeReversed
+15,Identity,Identity,15,IDBadge
+16,Date time,Date time,16,Calendar
+17,RadioButton,RadioButton,17,RadioBtnOn
+18,SimpleSelect,SimpleSelect,18,CheckboxComposite
